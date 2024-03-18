@@ -1,0 +1,23 @@
+---
+title: "index"
+author: "Imanol Lizarraga Álvarez"
+date: "3/18/2024"
+output: html_document
+---
+
+# My personal agujero
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
